@@ -18,6 +18,12 @@ Ce projet vise à visualiser et explorer un réseau hybride à partir d’un cor
 3. Embeddings vectoriels avec FastText
 4. Réduction de dimension (UMAP)
 5. Visualisation interactive avec Gephi
+## 🧠 Détail sur les embeddings
+
+Les **embeddings** générés via FastText permettent de représenter les mots du corpus comme des vecteurs numériques dans un espace sémantique. Cela permet de :
+- détecter des relations de sens indépendamment de leur proximité textuelle
+- enrichir le graphe avec des liens non capturés par les cooccurrences simples
+- effectuer une projection visuelle avec UMAP pour repérer les regroupements thématiques
 
 ## 🎯 Objectif
 
