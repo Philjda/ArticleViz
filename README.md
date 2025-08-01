@@ -31,7 +31,3 @@ Explorer les relations sémantiques dans un corpus textuel en combinant outils d
 - Gephi
 ![Visualisation Gephi](graph1.png)
 
-
----
-
-Tu veux que je t’aide aussi à créer la structure des fichiers du dépôt, ou que je t’ajoute une section bonus sur comment reproduire le projet étape par étape ? 💡
